@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "9812bfa54147823d",
+    "type": "split",
+    "children": [
+      {
+        "id": "df9a659c0baa9352",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8296677076a8e77c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f83f091b1880e3a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENE 13.05i/Reading - Narrative The Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dcf42d94e91e69fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd8b4acbba716286",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d01feab21d08854",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff9da625dea6c574",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "linearly",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39f591ff58beede8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.5
+  },
+  "right": {
+    "id": "fb78b0d34d06bf42",
+    "type": "split",
+    "children": [
+      {
+        "id": "42a4de1c2994503d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8ce6ca32d3eb1a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ENE 13.05i/Reading - Narrative The Basics.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54bece668d7ef227",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ENE 13.05i/Reading - Narrative The Basics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b34056c4254a844e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "479e1f24d888b96e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ENE 13.05i/Reading - Narrative The Basics.md"
+              }
+            }
+          },
+          {
+            "id": "449e65af7f60c582",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7256efad91b31630",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6d01feab21d08854",
+  "lastOpenFiles": [
+    "New Microsoft Publisher Document.pub",
+    "New shortcut.lnk",
+    "ENE 13.05i/DB 1 - Science and Engineering.md",
+    "ENE 13.05i/Reading - Narrative The Basics.md",
+    "CSCI 142i/(5-6-24) Introduction.md",
+    "CSCI 142i/Home - CSCI 142i.md",
+    "ENE 13.05i",
+    "CSCI 142i",
+    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Info - Gaussian Elimination and Gauss-Jordan Reduction.md",
+    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/definition-rref.png",
+    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/example-leading-variables.png",
+    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/example-back-substitution.png",
+    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/example-row-echelon.png",
+    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/definition-row-echelon.png",
+    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Info - Linear Independence.md",
+    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/theorem-basis-conditions.png",
+    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/definition-basis-1.png",
+    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/example-linear-dependence.png",
+    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Info - Eigenvalues and Eigenvectors.md",
+    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments/theorem-diagonizable-diagonalization.png",
+    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments/theorem-behavior-diagonal-2.png",
+    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Info - Determinants.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Other Counters.md",
+    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments",
+    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.2 - Algebraic Properties of Matrices/Info - Matrix Inverse.md",
+    "MATH 51.4 - Math for Computer Science II/Module 4/Lectures/(4-24-24, Wed).md",
+    "MATH 51.4 - Math for Computer Science II/Module 4/Notes",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Extra - PHYS 160 Module 4 Exercises.md",
+    "counterr.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Ripple Counters.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Shift Register.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Synchronous Counters.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Registers.md",
+    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Home - PHYS 160 Module 3.md",
+    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Guide - State Reduction and Assignment.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Counters.md",
+    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Info - Storage Elements.md",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Home - PHYS 160 Module 4.md",
+    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Info - Sequential Circuits.md",
+    "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
+    "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
+    "PHYS16~1/MOFEC2~1/Notes/Attachments",
+    "PHYS16~1/MOFEC2~1/Notes",
+    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments",
+    "HISTO 12 - Readings in Philippine History/Readings/Attachments",
+    "HISTO 12 - Readings in Philippine History/Readings/Untitled"
+  ]
+}
