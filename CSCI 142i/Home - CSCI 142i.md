@@ -12,7 +12,6 @@ HCI is the study of
 
 *Name:* Human-Computer Interaction
 *Section:* A
-*Professor:* Butch Adrian A. Castro
 
 ## Learning Resources
 

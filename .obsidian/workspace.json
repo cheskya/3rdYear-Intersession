@@ -11,8 +11,12 @@
             "id": "8296677076a8e77c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,14 +25,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENE 13.05i/Reading - Narrative The Basics.md",
+                "file": "ENE 13.05i/Module 0/DB 3 - Reflection about Ecosophy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7686b0dae201494",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENE 13.05i/Module 0/Reading 2 - Back to Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENE 13.05i/Reading - Narrative The Basics.md",
+                "file": "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENE 13.05i/Reading - Narrative The Basics.md",
+                "file": "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENE 13.05i/Reading - Narrative The Basics.md"
+                "file": "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md"
               }
             }
           },
@@ -180,14 +195,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d01feab21d08854",
+  "active": "8296677076a8e77c",
   "lastOpenFiles": [
+    "ENE 13.05i/Module 0/DB 3 - Reflection about Ecosophy.md",
+    "ENE 13.05i/Module 0/DB 2 - Science and Engineering.md",
+    "ENE 13.05i/Module 0/Reading 2 - Back to Basics.md",
+    "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
+    "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+    "CSCI 142i/(6-6-24) Continuation of First Session.md",
+    "CSCI 142i/(6-5-24) Introduction.md",
+    "CSCI 142i/Home - CSCI 142i.md",
+    "ENE 13.05i/Home - ENE 13.05i.md",
+    "ENE 13.05i/Module 1",
+    "ENE 13.05i/Module 0",
     "New Microsoft Publisher Document.pub",
     "New shortcut.lnk",
-    "ENE 13.05i/DB 1 - Science and Engineering.md",
-    "ENE 13.05i/Reading - Narrative The Basics.md",
-    "CSCI 142i/(5-6-24) Introduction.md",
-    "CSCI 142i/Home - CSCI 142i.md",
     "ENE 13.05i",
     "CSCI 142i",
     "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Info - Gaussian Elimination and Gauss-Jordan Reduction.md",
@@ -219,14 +241,7 @@
     "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Guide - State Reduction and Assignment.md",
     "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Counters.md",
     "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Info - Storage Elements.md",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Home - PHYS 160 Module 4.md",
-    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Info - Sequential Circuits.md",
-    "HISTO 12 - Readings in Philippine History/Home - HISTO 12.md",
-    "HISTO 12 - Readings in Philippine History/Readings/Home - HISTO 12 Readings.md",
     "PHYS16~1/MOFEC2~1/Notes/Attachments",
-    "PHYS16~1/MOFEC2~1/Notes",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Attachments",
-    "HISTO 12 - Readings in Philippine History/Readings/Attachments",
-    "HISTO 12 - Readings in Philippine History/Readings/Untitled"
+    "PHYS16~1/MOFEC2~1/Notes"
   ]
 }
