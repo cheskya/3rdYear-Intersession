@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8296677076a8e77c",
+            "id": "f83f091b1880e3a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+                "file": "ENE 13.05i/Module 0/Reading 2 - Back to Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f83f091b1880e3a2",
+            "id": "eaf04bd47e69e22c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENE 13.05i/Module 0/DB 3 - Reflection about Ecosophy.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md"
+                "file": "README.md"
               }
             }
           },
@@ -190,18 +191,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "homepage:Open homepage": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8296677076a8e77c",
+  "active": "eaf04bd47e69e22c",
   "lastOpenFiles": [
+    "ENE 13.05i/Module 0/Reading 2 - Back to Basics.md",
+    "README.md",
+    "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
     "ENE 13.05i/Module 0/DB 3 - Reflection about Ecosophy.md",
     "ENE 13.05i/Module 0/DB 2 - Science and Engineering.md",
-    "ENE 13.05i/Module 0/Reading 2 - Back to Basics.md",
-    "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
     "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+    "ENE 13.05i/Module 0/(6-7-24) A Single Story.md",
     "CSCI 142i/(6-6-24) Continuation of First Session.md",
     "CSCI 142i/(6-5-24) Introduction.md",
     "CSCI 142i/Home - CSCI 142i.md",
@@ -239,8 +240,6 @@
     "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Registers.md",
     "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Home - PHYS 160 Module 3.md",
     "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Guide - State Reduction and Assignment.md",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Counters.md",
-    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Info - Storage Elements.md",
     "PHYS16~1/MOFEC2~1/Notes/Attachments",
     "PHYS16~1/MOFEC2~1/Notes"
   ]
