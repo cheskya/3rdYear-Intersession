@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fd81a69290f852e8",
+            "id": "3795b0b35bd595ef",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "3795b0b35bd595ef",
+            "id": "d474f0d67caec0d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCI 142i/(6-5-24) Introduction.md",
+                "file": "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSCI 142i/(6-5-24) Introduction.md",
+                "file": "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSCI 142i/(6-5-24) Introduction.md",
+                "file": "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSCI 142i/(6-5-24) Introduction.md"
+                "file": "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md"
               }
             }
           },
@@ -184,13 +184,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d01feab21d08854",
+  "active": "d474f0d67caec0d6",
   "lastOpenFiles": [
+    "README.md",
     "CSCI 142i/(6-14-24).md",
     "CSCI 142i/(6-13-24) Empathize.md",
     "CSCI 142i/Home - CSCI 142i.md",
     "CSCI 142i/Info - Norman's Design Principles.md",
-    "README.md",
     "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
     "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
     "ENE 13.05i/Module 1/Reading 2 - Back to Basics.md",

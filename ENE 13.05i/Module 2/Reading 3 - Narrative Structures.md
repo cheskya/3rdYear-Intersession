@@ -26,6 +26,9 @@ Guide Questions:
         - how often the narrative tells us about an event that has taken place
         - "singulative" instance is most common
         - if we are told "repetitively" about the same event, this may suggest that it is particularly noteworthy
+    - Style
+        - not sure about this, so i'll just paste some related text
+        - "In particular, disputes have arisen over the extent to which ‘story’ is separate from discourse, an abstraction or something that is purely ‘synthetic’ (Phelan 1989) and distinct from aspects of the writer’s style or the medium in question."
     - Intertextuality
         - meaning relations between text
 2. Differentiate Claude Levi-Strauss' narrative theory from Vladimir Propp's.
