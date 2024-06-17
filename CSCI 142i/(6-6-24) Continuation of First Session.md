@@ -1,5 +1,7 @@
 Knowing your user
 
+Lecture 01
+
 - humans have senses that allow them to perceive the world
 - humans have memory
 	- humans have short-term memory that can remember 7+/-2 chunks of information

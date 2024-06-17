@@ -12,5 +12,7 @@
   "propertiesInDocument": "visible",
   "showInlineTitle": false,
   "promptDelete": false,
-  "showRibbon": false
+  "showRibbon": false,
+  "tabSize": 4,
+  "useTab": false
 }

@@ -1,5 +1,7 @@
 # Lecture for June 5, 2024
 
+Lecture 00
+
 ## Paradigms of HCI
 
 Three distinct conceptualizations:

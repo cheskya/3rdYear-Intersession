@@ -8,36 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f83f091b1880e3a2",
+            "id": "fd81a69290f852e8",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENE 13.05i/Module 0/Reading 2 - Back to Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaf04bd47e69e22c",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "d7686b0dae201494",
+            "id": "3795b0b35bd595ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENE 13.05i/Module 0/Reading 2 - Back to Basics.md",
+                "file": "CSCI 142i/(6-5-24) Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "CSCI 142i/(6-5-24) Introduction.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "CSCI 142i/(6-5-24) Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "CSCI 142i/(6-5-24) Introduction.md"
               }
             }
           },
@@ -194,19 +184,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eaf04bd47e69e22c",
+  "active": "6d01feab21d08854",
   "lastOpenFiles": [
-    "ENE 13.05i/Module 0/Reading 2 - Back to Basics.md",
-    "README.md",
-    "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
-    "ENE 13.05i/Module 0/DB 3 - Reflection about Ecosophy.md",
-    "ENE 13.05i/Module 0/DB 2 - Science and Engineering.md",
-    "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
-    "ENE 13.05i/Module 0/(6-7-24) A Single Story.md",
-    "CSCI 142i/(6-6-24) Continuation of First Session.md",
-    "CSCI 142i/(6-5-24) Introduction.md",
+    "CSCI 142i/(6-14-24).md",
+    "CSCI 142i/(6-13-24) Empathize.md",
     "CSCI 142i/Home - CSCI 142i.md",
+    "CSCI 142i/Info - Norman's Design Principles.md",
+    "README.md",
+    "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
+    "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
+    "ENE 13.05i/Module 1/Reading 2 - Back to Basics.md",
+    "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+    "ENE 13.05i/Module 2",
+    "ENE 13.05i/Module 0/(6-7-24) A Single Story.md",
+    "ENE 13.05i/Module 0/DB 2 - Science and Engineering.md",
+    "CSCI 142i/(6-10-24) Everyday Design.md",
+    "CSCI 142i/(6-11-24) Design Thinking.md",
+    "CSCI 142i/(6-6-24) Continuation of First Session.md",
+    "ENE 13.05i/Module 0/DB 3 - Reflection about Ecosophy.md",
     "ENE 13.05i/Home - ENE 13.05i.md",
+    "CSCI 142i/(6-5-24) Introduction.md",
     "ENE 13.05i/Module 1",
     "ENE 13.05i/Module 0",
     "New Microsoft Publisher Document.pub",
@@ -234,13 +231,6 @@
     "MATH 51.4 - Math for Computer Science II/Module 4/Notes",
     "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Extra - PHYS 160 Module 4 Exercises.md",
     "counterr.md",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Ripple Counters.md",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Shift Register.md",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Synchronous Counters.md",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Registers.md",
-    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Home - PHYS 160 Module 3.md",
-    "PHYS 160 - Electronics/Module 3 - Synchronous Sequential Logic/Notes/Guide - State Reduction and Assignment.md",
-    "PHYS16~1/MOFEC2~1/Notes/Attachments",
-    "PHYS16~1/MOFEC2~1/Notes"
+    "PHYS16~1/MOFEC2~1/Notes/Attachments"
   ]
 }
