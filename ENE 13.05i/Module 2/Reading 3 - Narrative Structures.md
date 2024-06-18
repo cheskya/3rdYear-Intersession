@@ -1,6 +1,21 @@
 # Narrative Structures
 
-Guide Questions:
+In this module we will dive into Story, Narrative and Discourse. With this, you have to read Chapter 2 of our textbook "Narrative: The Basics" (pp. 28-40) to trace the development of Narrative Structures from Vladimir Propp's Morphology of the Folktale until the narrative theories mentioned in the chapter.
+
+ Please be guided of the following questions in your reading:
+
+1. Define Discourse, Representation, Order, Frequency, Style, and Intertextuality.
+2. Differentiate Claude Levi-Strauss' narrative theory from Vladimir Propp's.
+3. What are the five (5) basic stages of narrative according to Tzvetan Todorov?
+4. What is binary opposition according to Levi-Strauss? 
+5. What is the argument of David Lodge regarding story and discourse?
+6. What are Gerard Genette's three (3) aspects of narrative?
+7. What is Poststructuralism and what is its impact on narrative theory?
+8. How significant are the mentioned concepts from numbers 1-7 in the understanding and theorization of story, narrative and discourse?
+
+---
+
+## Guide Questions
 
 1. Define Discourse, Representation, Order, Frequency, Style, and Intertextuality.
     - Discourse
@@ -29,8 +44,10 @@ Guide Questions:
     - Style
         - not sure about this, so i'll just paste some related text
         - "In particular, disputes have arisen over the extent to which ‘story’ is separate from discourse, an abstraction or something that is purely ‘synthetic’ (Phelan 1989) and distinct from aspects of the writer’s style or the medium in question."
+        - might be related - https://www.indeed.com/career-advice/career-development/types-of-narrative-styles
     - Intertextuality
         - meaning relations between text
+        - from the web - the relationship between texts, especially literary ones
 2. Differentiate Claude Levi-Strauss' narrative theory from Vladimir Propp's.
     - Propp
         - focused on a sequential (syntagmatic) analysis of narrative
@@ -73,7 +90,7 @@ Guide Questions:
         - if we are told "repetitively" about the same event, this may suggest that it is particularly noteworthy
 7. What is Poststructuralism and what is its impact on narrative theory?
     - has had a huge impact on literary theory in particular, but also suffers from some negativity for its often seemingly impenetrable terminology, and for the fact that many of its main exponents seem more interested in their own activity than in telling us anything interesting about the narratives or texts they are allegedly discussing
-    - is concerned with how language shapes our understanding of ourselves and the world around us, but it takes much further the idea that the relationship between language and our reality is arbitrary and full of contradictions and gaps
+    - is concerned with how language shapes our understanding of ourselves and the world around us (much like structuralism), but it takes much further the idea that the relationship between language and our reality is arbitrary and full of contradictions and gaps
     - more openly concerned with ideology
     - shows how loaded and unstable binary oppositions are (unlike what classic structuralism tries to say: that is, the world is something that can be neatly arranged into sets of binary oppositions suggestive of an either/or logic)
     - has had a big influence on contemporary gender and queer theories, as well as on studies of cybercultures where the whole relationship between the self and the physical body has been problematized

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3795b0b35bd595ef",
+            "id": "d474f0d67caec0d6",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,7 +22,31 @@
             }
           },
           {
-            "id": "d474f0d67caec0d6",
+            "id": "898bc90631b6e1c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCI 142i/Info - Norman's Design Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6332cc2b891c52e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCI 142i/(6-13-24) Empathize.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb16252296b14cd4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,15 +208,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d474f0d67caec0d6",
+  "active": "cb16252296b14cd4",
   "lastOpenFiles": [
+    "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
+    "CSCI 142i/Info - Norman's Design Principles.md",
+    "CSCI 142i/Home - CSCI 142i.md",
+    "CSCI 142i/(6-18-24) (Async) The Chair That Conquered The World.md",
+    "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
+    "CSCI 142i/(6-13-24) Empathize.md",
     "README.md",
     "CSCI 142i/(6-14-24).md",
-    "CSCI 142i/(6-13-24) Empathize.md",
-    "CSCI 142i/Home - CSCI 142i.md",
-    "CSCI 142i/Info - Norman's Design Principles.md",
-    "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
-    "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
     "ENE 13.05i/Module 1/Reading 2 - Back to Basics.md",
     "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
     "ENE 13.05i/Module 2",
@@ -230,7 +255,6 @@
     "MATH 51.4 - Math for Computer Science II/Module 4/Lectures/(4-24-24, Wed).md",
     "MATH 51.4 - Math for Computer Science II/Module 4/Notes",
     "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Extra - PHYS 160 Module 4 Exercises.md",
-    "counterr.md",
     "PHYS16~1/MOFEC2~1/Notes/Attachments"
   ]
 }
