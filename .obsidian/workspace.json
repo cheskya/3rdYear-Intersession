@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb16252296b14cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 142i/Info - Norman's Design Principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "31027a7c19157749",
             "type": "leaf",
             "pinned": true,
@@ -39,14 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md",
+                "file": "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0963e6111f1e01cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ENE 13.05i/Module 0/Reading - Narrative The Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 255.5
   },
   "right": {
     "id": "fb78b0d34d06bf42",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md",
+                "file": "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md",
+                "file": "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md"
+                "file": "ENE 13.05i/Module 1/DB - Module 1 Reflection.md"
               }
             }
           },
@@ -196,28 +196,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6da6469e236b8647",
+  "active": "6d01feab21d08854",
   "lastOpenFiles": [
-    "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
-    "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md",
-    "ENE 13.05i/Module 0/DB - Science and Engineering.md",
     "ENE 13.05i/Module 0/Reading - Narrative The Basics.md",
+    "ENE 13.05i/Module 0/DB - Science and Engineering.md",
     "ENE 13.05i/Module 0/DB - Reflection about Ecosophy.md",
-    "ENE 13.05i/Module 2/Reading - Narrative Structures.md",
+    "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+    "ENE 13.05i/Module 0/(6-7-24) A Single Story.md",
+    "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
     "ENE 13.05i/Module 1/Reading - Back to Basics.md",
+    "ENE 13.05i/Module 2/Reading - Pope Francis's Address on AI.md",
     "README.md",
+    "CSCI 142i/Info - Norman's Design Principles.md",
+    "ENE 13.05i/Module 2/Reading - Narrative Structures.md",
     "ENE 13.05i/Module 2/(6-18-24).md",
     "CSCI 142i/Info - Empathizing with the User.md",
-    "CSCI 142i/Info - Norman's Design Principles.md",
     "CSCI 142i/Info - Design Thinking.md",
     "CSCI 142i/(6-11-24) Design Thinking.md",
     "CSCI 142i/Home - CSCI 142i.md",
     "CSCI 142i/(6-18-24) (Async) The Chair That Conquered The World.md",
     "CSCI 142i/(6-13-24) Empathize.md",
     "CSCI 142i/(6-14-24).md",
-    "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
     "ENE 13.05i/Module 2",
-    "ENE 13.05i/Module 0/(6-7-24) A Single Story.md",
     "CSCI 142i/(6-10-24) Everyday Design.md",
     "CSCI 142i/(6-6-24) Continuation of First Session.md",
     "ENE 13.05i/Home - ENE 13.05i.md",
