@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d474f0d67caec0d6",
+            "id": "cb16252296b14cd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSCI 142i/Info - Norman's Design Principles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "31027a7c19157749",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,43 +34,19 @@
             }
           },
           {
-            "id": "898bc90631b6e1c0",
+            "id": "6da6469e236b8647",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSCI 142i/Info - Norman's Design Principles.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6332cc2b891c52e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSCI 142i/(6-13-24) Empathize.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb16252296b14cd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
+                "file": "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
+                "file": "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
+                "file": "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md"
+                "file": "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md"
               }
             }
           },
@@ -208,25 +196,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb16252296b14cd4",
+  "active": "6da6469e236b8647",
   "lastOpenFiles": [
-    "ENE 13.05i/Module 0/Reading 1 - Narrative The Basics.md",
+    "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
+    "ENE 13.05i/Module 1/Reading - Pope Francis's Address on AI.md",
+    "ENE 13.05i/Module 0/DB - Science and Engineering.md",
+    "ENE 13.05i/Module 0/Reading - Narrative The Basics.md",
+    "ENE 13.05i/Module 0/DB - Reflection about Ecosophy.md",
+    "ENE 13.05i/Module 2/Reading - Narrative Structures.md",
+    "ENE 13.05i/Module 1/Reading - Back to Basics.md",
+    "README.md",
+    "ENE 13.05i/Module 2/(6-18-24).md",
+    "CSCI 142i/Info - Empathizing with the User.md",
     "CSCI 142i/Info - Norman's Design Principles.md",
+    "CSCI 142i/Info - Design Thinking.md",
+    "CSCI 142i/(6-11-24) Design Thinking.md",
     "CSCI 142i/Home - CSCI 142i.md",
     "CSCI 142i/(6-18-24) (Async) The Chair That Conquered The World.md",
-    "ENE 13.05i/Module 2/Reading 3 - Narrative Structures.md",
     "CSCI 142i/(6-13-24) Empathize.md",
-    "README.md",
     "CSCI 142i/(6-14-24).md",
-    "ENE 13.05i/Module 1/Reading 2 - Back to Basics.md",
     "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
     "ENE 13.05i/Module 2",
     "ENE 13.05i/Module 0/(6-7-24) A Single Story.md",
-    "ENE 13.05i/Module 0/DB 2 - Science and Engineering.md",
     "CSCI 142i/(6-10-24) Everyday Design.md",
-    "CSCI 142i/(6-11-24) Design Thinking.md",
     "CSCI 142i/(6-6-24) Continuation of First Session.md",
-    "ENE 13.05i/Module 0/DB 3 - Reflection about Ecosophy.md",
     "ENE 13.05i/Home - ENE 13.05i.md",
     "CSCI 142i/(6-5-24) Introduction.md",
     "ENE 13.05i/Module 1",
@@ -248,13 +241,8 @@
     "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Info - Eigenvalues and Eigenvectors.md",
     "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments/theorem-diagonizable-diagonalization.png",
     "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments/theorem-behavior-diagonal-2.png",
-    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Info - Determinants.md",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Info - Other Counters.md",
     "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments",
-    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.2 - Algebraic Properties of Matrices/Info - Matrix Inverse.md",
-    "MATH 51.4 - Math for Computer Science II/Module 4/Lectures/(4-24-24, Wed).md",
     "MATH 51.4 - Math for Computer Science II/Module 4/Notes",
-    "PHYS 160 - Electronics/Module 4 - Registers and Counters/Notes/Extra - PHYS 160 Module 4 Exercises.md",
     "PHYS16~1/MOFEC2~1/Notes/Attachments"
   ]
 }

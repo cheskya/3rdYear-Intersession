@@ -2,7 +2,7 @@
 
 Resource/s
 
-- [[Reading 1 - Narrative The Basics]]
+- [[Reading - Narrative The Basics]]
 - Canvas PPT
 
 ## Story
