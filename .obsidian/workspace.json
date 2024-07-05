@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df9a659c0baa9352",
+        "id": "09b3fa24931a0ec9",
         "type": "tabs",
         "children": [
           {
-            "id": "31027a7c19157749",
+            "id": "d32f25d9a7c0f093",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -22,24 +22,12 @@
             }
           },
           {
-            "id": "6da6469e236b8647",
+            "id": "8b5eeac1b5338c1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0963e6111f1e01cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ENE 13.05i/Module 0/Reading - Narrative The Basics.md",
+                "file": "ENE 13.05i/Module 4/Reading - Narrative and Ideology.md",
                 "mode": "source",
                 "source": false
               }
@@ -75,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "linearly",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
+                "file": "ENE 13.05i/Module 4/Reading - Narrative and Ideology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
+                "file": "ENE 13.05i/Module 4/Reading - Narrative and Ideology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ENE 13.05i/Module 1/DB - Module 1 Reflection.md"
+                "file": "ENE 13.05i/Module 4/Reading - Narrative and Ideology.md"
               }
             }
           },
@@ -196,53 +184,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d01feab21d08854",
+  "active": "8b5eeac1b5338c1f",
   "lastOpenFiles": [
-    "ENE 13.05i/Module 0/Reading - Narrative The Basics.md",
-    "ENE 13.05i/Module 0/DB - Science and Engineering.md",
-    "ENE 13.05i/Module 0/DB - Reflection about Ecosophy.md",
-    "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
-    "ENE 13.05i/Module 0/(6-7-24) A Single Story.md",
-    "ENE 13.05i/Module 1/DB - Module 1 Reflection.md",
-    "ENE 13.05i/Module 1/Reading - Back to Basics.md",
-    "ENE 13.05i/Module 2/Reading - Pope Francis's Address on AI.md",
+    "ENE 13.05i/Module 4/Reading - Figurative Language.md",
     "README.md",
-    "CSCI 142i/Info - Norman's Design Principles.md",
+    "ENE 13.05i/Module 3/DB - Sustainability Walk.md",
+    "ENE 13.05i/Module 4/Reading - Narrative and Ideology.md",
+    "ENE 13.05i/Module 3/Reading - Narrative Voice and Point of View.md",
+    "ENE 13.05i/Module 4",
+    "CSCI 142i/Info - Define Phase of Design Thinking.md",
+    "CSCI 142i/Info - Empathize Phase of Design Thinking.md",
+    "ENE 13.05i/Module 2/DB - Module 2 Reflection.md",
     "ENE 13.05i/Module 2/Reading - Narrative Structures.md",
-    "ENE 13.05i/Module 2/(6-18-24).md",
-    "CSCI 142i/Info - Empathizing with the User.md",
-    "CSCI 142i/Info - Design Thinking.md",
-    "CSCI 142i/(6-11-24) Design Thinking.md",
-    "CSCI 142i/Home - CSCI 142i.md",
-    "CSCI 142i/(6-18-24) (Async) The Chair That Conquered The World.md",
-    "CSCI 142i/(6-13-24) Empathize.md",
-    "CSCI 142i/(6-14-24).md",
-    "ENE 13.05i/Module 2",
-    "CSCI 142i/(6-10-24) Everyday Design.md",
-    "CSCI 142i/(6-6-24) Continuation of First Session.md",
+    "ENE 13.05i/Module 2/Reading - Pope Francis's Address on AI.md",
+    "ENE 13.05i/Module 3/(6-24-24) Story Narrative Discourse and Context.md",
+    "ENE 13.05i/Module 0/DB - Science and Engineering.md",
+    "CSCI 142i/(6-24-24) Pain Points.md",
     "ENE 13.05i/Home - ENE 13.05i.md",
-    "CSCI 142i/(6-5-24) Introduction.md",
+    "ENE 13.05i/Module 1/Reading - Back to Basics.md",
+    "ENE 13.05i/Module 2/(6-18-24).md",
+    "ENE 13.05i/Module 3",
+    "ENE 13.05i/Module 0/(6-7-24) A Single Story.md",
+    "ENE 13.05i/Module 0/(6-6-24) Key Concepts of Narrative.md",
+    "CSCI 142i/Info - Ideate Phase of Design Thinking.md",
+    "CSCI 142i/Info - Norman's Design Principles.md",
+    "CSCI 142i/Info - Prototype Phase of Design Thinking.md",
+    "CSCI 142i/Info - Design Thinking.md",
+    "CSCI 142i/(6-21-24) (Async) SCAMPER.md",
+    "CSCI 142i/Attachments/example-high-fidelity.png",
+    "CSCI 142i/Attachments/example-medium-fidelity.png",
+    "CSCI 142i/Attachments/example-low-fidelity.png",
+    "CSCI 142i/Home - CSCI 142i.md",
+    "CSCI 142i/Attachments/example-scamper.png",
+    "CSCI 142i/Attachments/example-empathy-map.png",
+    "CSCI 142i/Attachments/example-user-persona.png",
+    "Untitled.md",
+    "CSCI 142i/(6-13-24) Empathize.md",
+    "CSCI 142i/Attachments/design-thinking-non-linear-process.webp",
+    "CSCI 142i/Attachments/three-lenses-of-design-thinking.webp",
+    "CSCI 142i/Attachments",
+    "ENE 13.05i/Module 2",
     "ENE 13.05i/Module 1",
     "ENE 13.05i/Module 0",
     "New Microsoft Publisher Document.pub",
     "New shortcut.lnk",
     "ENE 13.05i",
     "CSCI 142i",
-    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Info - Gaussian Elimination and Gauss-Jordan Reduction.md",
     "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/definition-rref.png",
-    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/example-leading-variables.png",
-    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/example-back-substitution.png",
-    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/example-row-echelon.png",
-    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/definition-row-echelon.png",
-    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Info - Linear Independence.md",
-    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/theorem-basis-conditions.png",
-    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/definition-basis-1.png",
-    "MATH 51.4 - Math for Computer Science II/Module 3/Module 3.3/Notes/Attachments/example-linear-dependence.png",
-    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Info - Eigenvalues and Eigenvectors.md",
-    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments/theorem-diagonizable-diagonalization.png",
-    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments/theorem-behavior-diagonal-2.png",
-    "MATH 51.4 - Math for Computer Science II/Module 4/Notes/Attachments",
-    "MATH 51.4 - Math for Computer Science II/Module 4/Notes",
-    "PHYS16~1/MOFEC2~1/Notes/Attachments"
+    "MATH 51.4 - Math for Computer Science II/Module 2 - Matrices and Gaussian Elimination/Module 2.1 - Solving Linear Systems/Attachments/example-leading-variables.png"
   ]
 }

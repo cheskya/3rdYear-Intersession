@@ -19,3 +19,11 @@ HCI is the study of
 - Becker, C. R. (2020). Learn Human-Computer Interaction: Solve human problems and focus on rapid prototyping and validating solutions through user testing. Packt Publishing Ltd.
 - Lazar, J., Feng, J. H., & Hochheiser, H. (2017). Research methods in human-computer interaction. Morgan Kaufmann.
 - Stephanidis, C., Salvendy, G., Antona, M., Chen, J. Y., Dong, J., Duffy, V. G., ... & Zhou, J. (2019). Seven HCI grand challenges. International Journal of Human–Computer Interaction, 35(14), 1229-1269.
+
+## Suggested Outline
+
+- [[Info - Design Thinking]]
+    - [[Info - Empathize Phase of Design Thinking]]
+    - [[Info - Define Phase of Design Thinking]]
+    - [[Info - Ideate Phase of Design Thinking]]
+    - [[Info - Prototype Phase of Design Thinking]]

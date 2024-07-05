@@ -4,6 +4,10 @@
 
 Analyze the text based on: Tzvetan Todorov's Equilibrium Theory (5 basic stages of narrative)
 
+1. What is the highlighted disruption?
+2.  What is the highlighted repair?
+3. What ideal values are presented in the speech?
+
 ---
 
 ## Content
@@ -88,3 +92,21 @@ SDRAR
     - shared ethical proposal
 - reinstatement
     - healthy politics
+
+specific questions
+
+- what is the highlighted disruption
+    - "greater injustice between advanced and developing nations or between dominant and oppressed social classes, raising the dangerous possibility that a “throwaway culture” be preferred to a “culture of encounter”."
+    - AI as tools that we should user for the greater good and not allow to make the decisions for us (also add the thing where students are at the risk of being reduced to a repetition of notions because of AI, p. 17)
+    - AI as tools that should not be fully under the control of one group of people (e.g. users and programmers) (p.16)
+- what is the highlighted repair
+    - p. 15
+        - ethics - fourth paragraph
+        - second to the last
+    - p.18
+        - politics - third to the last
+- what ideal values are presented in the speech
+    - human-centered!
+    - humans having the say in decisions (e.g. not allowing a machine to kill)
+    - using AI for the greater good
+    - 
